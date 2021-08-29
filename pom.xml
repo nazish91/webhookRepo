@@ -80,6 +80,7 @@
 					<wtpversion>2.0</wtpversion>
 				</configuration>
 			</plugin>	
+			
 			<!-- Set JDK Compiler Level -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
